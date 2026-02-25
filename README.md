@@ -17,7 +17,3 @@ Here are some ideas to get you started:
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=RiceCake1&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 -->
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCake1&layout=compact&count_private=true&show_icons=true&theme=onedark" height="150px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RiceCake1&count_private=true&show_icons=true&theme=onedark" height="150px" />
-</p>
